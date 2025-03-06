@@ -1,6 +1,6 @@
 #  Project Overview
 This project utilizes machine learning techniques to predict the likelihood of a patient experiencing heart failure based on multiple clinical parameters. The dataset used is heart_failure.csv, which contains various medical attributes related to cardiovascular health.
-#🔹 Libraries Used
+# Libraries Used
 The project imports the following Python libraries:
 
 pandas, numpy → Data manipulation and numerical operations
@@ -15,17 +15,18 @@ K-Nearest Neighbors (KNN)
 Linear Discriminant Analysis
 Naïve Bayes
 Support Vector Machine (SVM)
-🔹 Results & Conclusion
+# Results & Conclusion
 ✅ The project successfully trains a KNN model for heart failure prediction.
 ✅ The best K value is determined through cross-validation, reducing error rates.
 ✅ The accuracy score and confusion matrix are used for model performance evaluation.
 ✅ The approach can be extended by testing other ML algorithms such as Logistic Regression, SVM, and Decision Trees.
-🔹 Future Enhancements
+# Future Enhancements
 🔹 Improve feature selection using correlation analysis.
 🔹 Implement GridSearchCV to optimize hyperparameters.
 🔹 Try Deep Learning models like Neural Networks.
 🔹 Deploy the model using Flask or FastAPI for real-world applications
-🚀 How to Run the Project
+🚀
+# How to Run the Project
 1️⃣ Install dependencies:
 
 #bash
